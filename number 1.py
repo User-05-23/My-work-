@@ -11,5 +11,6 @@ print(1000 != 1000.1)
 print( 2 * 2 == + 2 )
 print( (2 * 2) == + 2)
 
-# 4th programprint(123.456 * 10)
+# 4th program
+print(123.456 * 10)
 print(int(123.456))
